@@ -1,2 +1,2 @@
 # Lab2_comparch
-Detect sequence 1001 with a Moore machine 
+Lab 2 Section 2 Comp Arch: Detect sequence 1001 with a Moore machine 
